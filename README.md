@@ -21,7 +21,9 @@ yarn dev
 
 6 Back to localhost, there will be an error shows `The External Account was not found.`. (Sometimes this message will shows at account portal.)
 
-7 This behavior will happen on all social sign-in buttons.
+7 If you try to sign in again on account portal, it can create new account successfully.
+
+8 This behavior will happen on all social sign-in buttons.
 
 ## The Expected Behavior
 
